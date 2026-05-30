@@ -12,6 +12,7 @@ AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Sof
 
 <table>
 <tr>
+
 <td width="60%">
 
 ## 👨‍💻 About Me
@@ -28,44 +29,23 @@ AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Sof
 
 📫 Email: **[hkesh20@gmail.com](mailto:hkesh20@gmail.com)**
 
-🔗 LinkedIn: **linkedin.com/in/harikesh02**
+🔗 LinkedIn: **[linkedin.com/in/harikesh02](https://www.linkedin.com/in/harikesh02/)**
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="./pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16938203.jpg" width="300"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="320"/></td>
 
-</td>
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming Languages
+<h2 align="center">⚒️ Tech Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
-</p>
-
-### Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=8" />
 </p>
 
 ---
