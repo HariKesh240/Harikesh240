@@ -80,26 +80,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 😃 Facial Expression Recognition
-
-Machine Learning project that detects and classifies human facial emotions.
-
-### 🧮 Matrix Calculator
-
-NumPy-based matrix operations calculator built using Python.
-
-### 📚 Library Management System
-
-Java project implementing OOP concepts and file handling.
-
-### 💰 Expense Tracker
-
-Track expenses and manage personal finances efficiently.
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
