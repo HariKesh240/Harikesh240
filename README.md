@@ -1,63 +1,129 @@
-<br clear="both">
+<h1 align="center">Hi 👋, I'm Harikesh</h1>
 
-<h2 align="center">Helloo Guys👋Welcome to My Git-Hub Profile</h2>
-
-###
-
-<br clear="both">
+<h3 align="center">AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Software Engineer</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="60" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+DS+Student;MERN+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New" />
 </div>
 
-###
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Harikesh240&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/harikesh02/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Harikesh240/Harikesh240/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Harikesh240&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/Harikesh240/Harikesh240/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
+* 🎓 B.Tech Artificial Intelligence & Data Science Student
+* 💻 Passionate about Full Stack Development & AI
+* 🌱 Currently learning MERN Stack, DSA & Machine Learning
+* 🔥 Building projects consistently to strengthen development skills
+* 🎯 Goal: Software Development Internship → Full Stack Engineer
 
-###
+---
 
-<br clear="both">
+## 🛠️ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harikesh240/Harikesh240/pacman-output/breakout-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harikesh240/Harikesh240/pacman-output/breakout-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harikesh240/Harikesh240/pacman-output/breakout-contribution-graph.svg">
-</picture>
+### Languages
 
-###
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+* MERN Stack Development
+* Data Structures & Algorithms
+* Machine Learning
+* System Design Fundamentals
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Harikesh240&theme=algolia&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Harikesh240&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikesh240&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikesh240&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 😃 Facial Expression Recognition
+
+Machine Learning project that detects and classifies human facial emotions.
+
+### 🧮 Matrix Calculator
+
+NumPy-based matrix operations calculator built using Python.
+
+### 📚 Library Management System
+
+Java project implementing OOP concepts and file handling.
+
+### 💰 Expense Tracker
+
+Track expenses and manage personal finances efficiently.
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harikesh240&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/harikesh02/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+⭐ “Consistency beats intensity. Small progress every day compounds into success.”
