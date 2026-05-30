@@ -60,36 +60,14 @@ AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Sof
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                          | Description                                                           |
-| -------------------------------- | --------------------------------------------------------------------- |
-| 😃 Facial Expression Recognition | Machine Learning model for emotion detection using facial expressions |
-| 🧮 Matrix Calculator             | Python + NumPy project for performing matrix operations               |
-| 📚 Library Management System     | Java-based project implementing OOP concepts and file handling        |
-| 💰 Expense Tracker               | Personal finance management application                               |
-| 🌐 MERN Blog Application         | Full Stack CRUD application using MERN Stack                          |
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harikesh240&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harikesh240&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikesh240&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikesh240&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
