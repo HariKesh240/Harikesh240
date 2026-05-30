@@ -10,11 +10,9 @@ AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Sof
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Harikesh240/assets/main/banner.png" width="100%" alt="Coding Banner"/>
-</div>
-
----
+<table>
+<tr>
+<td width="60%">
 
 ## 👨‍💻 About Me
 
@@ -31,6 +29,16 @@ AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Sof
 📫 Email: **[hkesh20@gmail.com](mailto:hkesh20@gmail.com)**
 
 🔗 LinkedIn: **linkedin.com/in/harikesh02**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-image_16938203.jpg" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
