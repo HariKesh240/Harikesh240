@@ -80,8 +80,6 @@ AI & Data Science Student | MERN Stack Developer | DSA Enthusiast | Aspiring Sof
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
